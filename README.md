@@ -1,2 +1,3 @@
-# test-auto-10016
-Auto-generated test repository
+# Test Repo
+
+Auto-generated test.
